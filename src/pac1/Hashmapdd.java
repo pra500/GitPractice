@@ -19,6 +19,8 @@ public class Hashmapdd {
         
         System.out.println(map);
         
+        System.out.println(map);
+        
        
         
         
