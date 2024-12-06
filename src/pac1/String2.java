@@ -15,12 +15,13 @@ char[] arr=str.toCharArray();
 
 
 System.out.println(arr.length);
+System.out.println(arr.length);
 
-	
+System.out.println(arr.length);
 
 
 
-	
+
 	}	
 	
 	
